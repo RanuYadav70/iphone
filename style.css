@@ -77,6 +77,10 @@
 .v{
     background-color: #86f427;
 }
+img:hover{
+    transform: scale(1.1,1.2);
+    transition:linear all 0.3s;
+}
 
 #footer{
     height:50px;
